@@ -47,7 +47,7 @@ Lista de programas y herramientas que estoy incorporando en el laboratorio:
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Karmawillhityou&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -55,10 +55,10 @@ Lista de programas y herramientas que estoy incorporando en el laboratorio:
 ## 🌟 Badges
 
 <p align="center">
-![Linux](https://img.shields.io/badge/Linux-Security-blue)
-![Networking](https://img.shields.io/badge/Networking-Advanced-green)
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-Autopsy-red)
-![Python](https://img.shields.io/badge/Python-Expert-yellow)
+  <img src="https://img.shields.io/badge/Linux-Security-blue" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Networking-Advanced-green" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Digital_Forensics-Autopsy-red" alt="Forensics"/>
+  <img src="https://img.shields.io/badge/Python-Expert-yellow" alt="Python"/>
 </p>
 
 ---
